@@ -1,0 +1,70 @@
+{
+  "_doc": "Registry of the 42 coursework project (lecole-42). A SUBSET of git-repos-master/repos.json (group d_lecole), identical name/url/private/doc fields. Clones live outside this index; this repo holds only committed symlinks to them. Check with ./check-repos-sot.sh.",
+  "_schema": "lecole-42-repos/v1",
+  "base_dir_doc": "Clones live outside this index, as siblings in $CLOUD_GIT_BASE (default ~/cloud-shared-store/git). This repo holds only committed symlinks pointing at them.",
+  "base_dir_default": "~/cloud-shared-store/git",
+  "_visibility_doc": "private:true repos require SSH access configured for this GitHub account to clone.",
+  "groups": {},
+  "repos": [
+    {
+      "name": "lecole-42-projects",
+      "url": "git@github.com:diegonmarcos/lecole-42-projects.git",
+      "private": true,
+      "doc": "The 42 curriculum itself."
+    },
+    {
+      "name": "lecole-42_back-Algo",
+      "url": "git@github.com:diegonmarcos/lecole-42_back-Algo.git",
+      "private": false,
+      "doc": "Algorithms coursework."
+    },
+    {
+      "name": "lecole-42_back-Graphic",
+      "url": "git@github.com:diegonmarcos/lecole-42_back-Graphic.git",
+      "private": false,
+      "doc": "Graphics coursework."
+    },
+    {
+      "name": "lecole-42_back-System",
+      "url": "git@github.com:diegonmarcos/lecole-42_back-System.git",
+      "private": false,
+      "doc": "Systems coursework."
+    },
+    {
+      "name": "lecole-42_cyber-Cyberwarfare",
+      "url": "git@github.com:diegonmarcos/lecole-42_cyber-Cyberwarfare.git",
+      "private": false,
+      "doc": "Security coursework."
+    },
+    {
+      "name": "lecole-42_dev",
+      "url": "git@github.com:diegonmarcos/lecole-42_dev.git",
+      "private": true,
+      "doc": "Scratch and experiments."
+    },
+    {
+      "name": "lecole-42_ml-Agentic",
+      "url": "git@github.com:diegonmarcos/lecole-42_ml-Agentic.git",
+      "private": false,
+      "doc": "Agentic-AI work."
+    },
+    {
+      "name": "lecole-42_ml-DataScience",
+      "url": "git@github.com:diegonmarcos/lecole-42_ml-DataScience.git",
+      "private": false,
+      "doc": "Data-science work. Was the whole of the b_data_science group, which held one repo and then none."
+    },
+    {
+      "name": "lecole-42_ml-MachineLearning",
+      "url": "git@github.com:diegonmarcos/lecole-42_ml-MachineLearning.git",
+      "private": false,
+      "doc": "Machine-learning work."
+    },
+    {
+      "name": "lecole-42_ops-Mylibs",
+      "url": "git@github.com:diegonmarcos/lecole-42_ops-Mylibs.git",
+      "private": false,
+      "doc": "Personal libraries."
+    }
+  ]
+}
