@@ -1,0 +1,113 @@
+{
+  "schema": "readme-node/v1",
+  "generated_by": "_git-repos-master readme-render.js nodeData() from projects-repos.json; DO NOT EDIT (node repos-sot.js sync-readmes)",
+  "name": "lecole-42-___",
+  "label": "lecole-42-___",
+  "code": "5.0",
+  "kind": "hub",
+  "description": "Master repo for the lecole-42_* repos: registry + symlinks",
+  "visibility": "public",
+  "url": "https://github.com/diegonmarcos/lecole-42-___",
+  "developer": "lecole42",
+  "farm": "5.Lecole-42",
+  "breadcrumb": [
+    {
+      "code": "5",
+      "kind": "area",
+      "label": "42",
+      "icon": "🎓"
+    }
+  ],
+  "hub": {
+    "name": "_git-repos-master",
+    "code": "0",
+    "url": "https://github.com/diegonmarcos/_git-repos-master"
+  },
+  "base_dir": "cloud-shared-store/git",
+  "members": [
+    {
+      "code": "5.1.1.1",
+      "name": "lecole-42_back-Algo",
+      "url": "https://github.com/diegonmarcos/lecole-42_back-Algo",
+      "visibility": "public",
+      "kind": "repo",
+      "description": "where dead-ends are just recursive detours and you will try to overcome stack overflows with a `ulimit - s unlimited`"
+    },
+    {
+      "code": "5.2.1.1",
+      "name": "lecole-42_back-Graphic",
+      "url": "https://github.com/diegonmarcos/lecole-42_back-Graphic",
+      "visibility": "public",
+      "kind": "repo",
+      "description": "Filling Wireframes, rendering matrixes and applying ray tracing one pixel at a time, until the GPU begs for mercy."
+    },
+    {
+      "code": "5.3.1.1",
+      "name": "lecole-42_back-System",
+      "url": "https://github.com/diegonmarcos/lecole-42_back-System",
+      "visibility": "public",
+      "kind": "repo",
+      "description": "The Unix Alchemist: Transmuting recursive pipes into web servers and containers into… well, more containers.\""
+    },
+    {
+      "code": "5.4.1.1",
+      "name": "lecole-42_ops-Mylibs",
+      "url": "https://github.com/diegonmarcos/lecole-42_ops-Mylibs",
+      "visibility": "public",
+      "kind": "repo",
+      "description": "__\"Every library has its first book, but not the last\"__: MyLibC, MylibC++, MyTools, for Memory Management and Data Manipulation."
+    },
+    {
+      "code": "5.5.1.1",
+      "name": "lecole-42-projects",
+      "url": "https://github.com/diegonmarcos/lecole-42-projects",
+      "visibility": "private",
+      "kind": "repo",
+      "description": ""
+    },
+    {
+      "code": "5.6.1.1",
+      "name": "lecole-42_ml-Agentic",
+      "url": "https://github.com/diegonmarcos/lecole-42_ml-Agentic",
+      "visibility": "public",
+      "kind": "repo",
+      "description": "It's basically a highly-paid, very fast committee of AIs arguing until a solution pops out."
+    },
+    {
+      "code": "5.7.1.1",
+      "name": "lecole-42_ml-DataScience",
+      "url": "https://github.com/diegonmarcos/lecole-42_ml-DataScience",
+      "visibility": "public",
+      "kind": "repo",
+      "description": "Notebooks > Excel - for people who prefer code cells to pivot tables (and occasional chaos)."
+    },
+    {
+      "code": "5.8.1.1",
+      "name": "lecole-42_ml-MachineLearning",
+      "url": "https://github.com/diegonmarcos/lecole-42_ml-MachineLearning",
+      "visibility": "public",
+      "kind": "repo",
+      "description": "\"Where I teach computers to be smart so I don't have to be.\""
+    },
+    {
+      "code": "5.9.1.1",
+      "name": "lecole-42_cyber-Cyberwarfare",
+      "url": "https://github.com/diegonmarcos/lecole-42_cyber-Cyberwarfare",
+      "visibility": "public",
+      "kind": "repo",
+      "description": ""
+    },
+    {
+      "code": "5.10.1.1",
+      "name": "lecole-42_dev",
+      "url": "https://github.com/diegonmarcos/lecole-42_dev",
+      "visibility": "private",
+      "kind": "repo",
+      "description": ""
+    }
+  ],
+  "tree": [
+    "└── 0_hub/",
+    "    └── _git-repos-master (submodule)"
+  ]
+}
