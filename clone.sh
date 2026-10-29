@@ -14,7 +14,10 @@
 # This repo is an INDEX, not a container. Clones live outside it (in
 # $CLOUD_GIT_BASE, default ~/cloud-shared-store/git) and appear here as symlinks:
 #
-#     lecole-42/lecole-42_dev  ->  ~/cloud-shared-store/git/lecole-42_dev  (no group)
+#     lecole-42-___/<repo>  ->  ~/cloud-shared-store/git/<repo>
+#
+# GENERATED from _git-repos-master 9_others/templates/hub-clone.sh
+# (node repos-sot.js sync-hub-scripts). DO NOT EDIT here; edit the template.
 #
 # Every repo in the registry has a link, committed, whether or not you have
 # cloned it. A link to a repo you do not have dangles — that is the index
