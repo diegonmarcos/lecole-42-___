@@ -5,6 +5,7 @@
   "label": "lecole-42-___",
   "code": "5.0",
   "kind": "hub",
+  "variant": "hub",
   "description": "Master repo for the lecole-42_* repos: registry + symlinks",
   "visibility": "public",
   "url": "https://github.com/diegonmarcos/lecole-42-___",
