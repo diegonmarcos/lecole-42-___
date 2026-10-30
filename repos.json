@@ -1,5 +1,5 @@
 {
-  "_doc": "Registry of the 42 coursework project (lecole-42). A SUBSET of git-repos-master/repos.json (group d_lecole), identical name/url/private/doc fields. Clones live outside this index; this repo holds only committed symlinks to them. Check with ./check-repos-sot.sh.",
+  "_doc": "Registry of the 42 coursework project (lecole-42). A SUBSET of _git-repos-master/0_registry/repos.json (group d_lecole), identical name/url/private/doc fields. Clones live outside this index; this repo holds only committed symlinks to them. Check with ./check-repos-sot.sh.",
   "_schema": "lecole-42-repos/v1",
   "base_dir_doc": "Clones live outside this index, as siblings in $CLOUD_GIT_BASE (default ~/cloud-shared-store/git). This repo holds only committed symlinks pointing at them.",
   "base_dir_default": "~/cloud-shared-store/git",
